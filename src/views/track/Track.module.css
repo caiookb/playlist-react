@@ -1,0 +1,7 @@
+.track {
+  background-color: yellow;
+  position: fixed;
+  bottom: 0;
+  height: 100px;
+  width: 100%;
+}
